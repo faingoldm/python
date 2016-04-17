@@ -1,6 +1,5 @@
 import sys
-import os, time
-import subprocess
+import os
  
 path = raw_input("PATH:")
 print path
